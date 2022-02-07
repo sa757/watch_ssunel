@@ -15,3 +15,13 @@
   * 뒤척이다 엎드려 있게될 때
   * 기타
 - 비교해서 달라진 경우 카카오톡(kakaotalk)으로 전송
+
+### 작업목록
+* 아이 상태 분류기
+  - AIP 사용하여 아이가 울음/엎드려 있음/자고 있음등 분류하고 상태 알림 발송 
+  - 아이 있는지 확인: 얼굴 있는 확인하는 방법 적용(https://github.com/GangYuanFan/Closed-Eye-Detection-with-opencv)
+  - 얼굴인식기 완료 
+  - 표정인식기 진행중 
+  - 자세인식기 진행중 https://github.com/sithu31296/pose-estimation 
+  - 아이인식기 진행중 
+  - 눈 인식기 진행중 https://github.com/GangYuanFan/Closed-Eye-Detection-with-opencv 
