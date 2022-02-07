@@ -19,7 +19,7 @@
 ### 작업목록
 * 아이 상태 분류기
   - AIP 사용하여 아이가 울음/엎드려 있음/자고 있음등 분류하고 상태 알림 발송 
-  - 아이 있는지 확인: 얼굴 있는 확인하는 방법 적용(https://github.com/GangYuanFan/Closed-Eye-Detection-with-opencv)
+  - 아이 있는지 확인: 얼굴 있는 확인하는 방법 적용[[MyGitRepo]](https://github.com/sa757/watch_ssunel-face_detection)
   - 얼굴인식기 완료 
   - 표정인식기 진행중 
   - 자세인식기 진행중 https://github.com/sithu31296/pose-estimation 
